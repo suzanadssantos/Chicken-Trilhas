@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 5901526786046495772}
   m_Layer: 0
   m_Name: FinalPoint
-  m_TagString: Untagged
+  m_TagString: FinalPoint
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
